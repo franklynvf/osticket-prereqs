@@ -23,8 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL
 - IIS Rewrite Module
 - Microsoft Redistributable
-
 - 
+
+installed prerequisites and requirements
+
 ![osTicket Installation Requirements](https://github.com/user-attachments/assets/83bfda62-720a-433c-be50-9104fc04d7ab)
 
 
